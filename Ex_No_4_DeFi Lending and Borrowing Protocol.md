@@ -82,6 +82,10 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+# Output:
+
+<img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/10f0702c-766a-4974-a968-7f3d40c293d8" />
+
 
 
 # High-Level Overview:
